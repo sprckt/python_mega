@@ -1,0 +1,7 @@
+These are the fruits and their lengths 
+pear 4 
+apple 5 
+orange 6 
+mandarin 8 
+watermelon 10 
+pomegranate 11 
